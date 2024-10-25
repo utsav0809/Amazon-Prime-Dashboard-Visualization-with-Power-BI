@@ -8,3 +8,4 @@ Interactive Dashboards: Explore Amazon Prime data through interactive dashboards
 Revenue Analysis: Visualize revenue trends, subscription fees, and customer spending patterns.
 Content Popularity: Identify popular movies, TV shows, and original content on Amazon Prime.
 Subscription Trends: Track subscription growth, churn rates, and regional distribution of Prime users.
+![image](https://github.com/user-attachments/assets/085980f0-f11b-4cb0-98eb-597edc4c1f24)
